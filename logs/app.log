@@ -1,0 +1,6 @@
+2024-08-07 21:15:30 INFO  BaseTest:15 - Running Test1 with username : standard_user password : secret_sauce
+2024-08-07 21:15:30 INFO  PropertiesReader:20 - Loading the properties file
+2024-08-07 21:15:34 INFO  BaseTest:15 - Running Test1 with username : problem_user password : secret_sauce
+2024-08-07 21:15:37 INFO  BaseTest:15 - Running Test1 with username : performance_glitch_user password : secret_sauce
+2024-08-07 21:15:45 INFO  BaseTest:15 - Running Test1 with username : error_user password : secret_sauce
+2024-08-07 21:15:49 INFO  BaseTest:15 - Running Test1 with username : visual_user password : secret_sauce
